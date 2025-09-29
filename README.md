@@ -134,7 +134,7 @@ It should **not** be used for actual underwriting or insurance pricing in produc
 
 - **Client:** AGI Insurance  
 - **Service Provider:** Apex Technology AI  
-- **Developer:** [Dharmik Monpara]  
+- **Developer:** Dharmik Monpara
 
 ---  
 
